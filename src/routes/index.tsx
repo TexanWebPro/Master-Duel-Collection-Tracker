@@ -1,23 +1,15 @@
 import { createFileRoute } from "@tanstack/react-router";
 import Dashboard from "../components/views/Dashboard";
-import { PageHeader } from "../components/PageHeader";
-import { RouteHeaderMeta } from "../config";
 
 export const Route = createFileRoute("/")({
-  component: Home,
+  staticData: {
+    page: {
+      key: "dashboard",
+      title: "Dashboard",
+      sub: "Collection state at a glance and what to do next.",
+    },
+  },
+  // loader: ({ context: { queryClient, trpc } }) =>
+  //   queryClient.ensureQueryData(trpc.collectibles.list.queryOptions({ section: 'solo' })),
+  component: Dashboard,
 });
-
-function Home() {
-  const meta: RouteHeaderMeta = {
-    key: "dashboard",
-    title: "Dashboard",
-    sub: "Collection state at a glance and what to do next.",
-  };
-
-  return (
-    <>
-      <PageHeader meta={meta} />
-      <Dashboard />
-    </>
-  );
-}

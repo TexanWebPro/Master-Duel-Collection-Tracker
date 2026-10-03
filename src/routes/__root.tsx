@@ -1,14 +1,21 @@
 /// <reference types="vite/client" />
-import { type ReactNode } from "react";
+import { Fragment, type ReactNode } from "react";
 import {
   HeadContent,
   Outlet,
   Scripts,
   createRootRoute,
+  useMatches,
 } from "@tanstack/react-router";
 import appCss from "../styles.css?url";
 import Sidebar from "../components/Sidebar";
 import { RouteKey } from "../types";
+import { PageHeader } from "../components/PageHeader";
+
+// interface RouterContext {
+//   queryClient: QueryClient;
+//   trpc: typeof trpc;
+// }
 
 export const Route = createRootRoute({
   head: () => ({
@@ -24,6 +31,13 @@ export const Route = createRootRoute({
       <Outlet />
     </RootDocument>
   ),
+  staticData: {
+    page: {
+      key: "dashboard",
+      title: "",
+      sub: "",
+    },
+  },
 });
 
 const counts: Partial<Record<RouteKey, number>> = {
@@ -36,6 +50,7 @@ const counts: Partial<Record<RouteKey, number>> = {
 };
 
 function RootDocument({ children }: { children: ReactNode }) {
+  const matches = useMatches();
   return (
     <html lang="en">
       <head>
@@ -45,6 +60,11 @@ function RootDocument({ children }: { children: ReactNode }) {
         <div className="bg-hud-grid grid min-h-screen grid-cols-1 md:grid-cols-[232px_minmax(0,1fr)]">
           <Sidebar counts={counts} />
           <main className="w-full max-w-360 min-w-0 px-4 pt-4 pb-28 md:px-8 md:pt-7 md:pb-12">
+            {matches.map((match) => (
+              <Fragment key={match.id}>
+                <PageHeader meta={match.staticData.page} />
+              </Fragment>
+            ))}
             {children}
           </main>
           <Scripts />
