@@ -59,7 +59,7 @@ async function createWindow() {
     minWidth: 720,
     minHeight: 480,
     backgroundColor: '#eef1f0',
-    title: 'Inkwell',
+    title: 'Master Duel Collection Tracker',
     webPreferences: {
       contextIsolation: true,
       nodeIntegration: false,

@@ -10,33 +10,102 @@
 
 import { Route as rootRouteImport } from './routes/__root'
 import { Route as IndexRouteImport } from './routes/index'
+import { Route as CardsRouteImport } from './routes/cards'
+import { Route as DeadlinesRouteImport } from './routes/deadlines'
+import { Route as EventsRouteImport } from './routes/events'
+import { Route as OtherRouteImport } from './routes/other'
+import { Route as SoloRouteImport } from './routes/solo'
+import { Route as StoreRouteImport } from './routes/store'
 
 const IndexRoute = IndexRouteImport.update({
   id: '/',
   path: '/',
   getParentRoute: () => rootRouteImport,
 } as any)
+const CardsRoute = CardsRouteImport.update({
+  id: '/cards',
+  path: '/cards',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const DeadlinesRoute = DeadlinesRouteImport.update({
+  id: '/deadlines',
+  path: '/deadlines',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const EventsRoute = EventsRouteImport.update({
+  id: '/events',
+  path: '/events',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const OtherRoute = OtherRouteImport.update({
+  id: '/other',
+  path: '/other',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const SoloRoute = SoloRouteImport.update({
+  id: '/solo',
+  path: '/solo',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const StoreRoute = StoreRouteImport.update({
+  id: '/store',
+  path: '/store',
+  getParentRoute: () => rootRouteImport,
+} as any)
 
 export interface FileRoutesByFullPath {
   '/': typeof IndexRoute
+  '/cards': typeof CardsRoute
+  '/deadlines': typeof DeadlinesRoute
+  '/events': typeof EventsRoute
+  '/other': typeof OtherRoute
+  '/solo': typeof SoloRoute
+  '/store': typeof StoreRoute
 }
 export interface FileRoutesByTo {
   '/': typeof IndexRoute
+  '/cards': typeof CardsRoute
+  '/deadlines': typeof DeadlinesRoute
+  '/events': typeof EventsRoute
+  '/other': typeof OtherRoute
+  '/solo': typeof SoloRoute
+  '/store': typeof StoreRoute
 }
 export interface FileRoutesById {
   __root__: typeof rootRouteImport
   '/': typeof IndexRoute
+  '/cards': typeof CardsRoute
+  '/deadlines': typeof DeadlinesRoute
+  '/events': typeof EventsRoute
+  '/other': typeof OtherRoute
+  '/solo': typeof SoloRoute
+  '/store': typeof StoreRoute
 }
 export interface FileRouteTypes {
   fileRoutesByFullPath: FileRoutesByFullPath
-  fullPaths: '/'
+  fullPaths:
+    '/' | '/cards' | '/deadlines' | '/events' | '/other' | '/solo' | '/store'
   fileRoutesByTo: FileRoutesByTo
-  to: '/'
-  id: '__root__' | '/'
+  to: '/' | '/cards' | '/deadlines' | '/events' | '/other' | '/solo' | '/store'
+  id:
+    | '__root__'
+    | '/'
+    | '/cards'
+    | '/deadlines'
+    | '/events'
+    | '/other'
+    | '/solo'
+    | '/store'
   fileRoutesById: FileRoutesById
 }
 export interface RootRouteChildren {
   IndexRoute: typeof IndexRoute
+  CardsRoute: typeof CardsRoute
+  DeadlinesRoute: typeof DeadlinesRoute
+  EventsRoute: typeof EventsRoute
+  OtherRoute: typeof OtherRoute
+  SoloRoute: typeof SoloRoute
+  StoreRoute: typeof StoreRoute
 }
 
 declare module '@tanstack/react-router' {
@@ -48,11 +117,59 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof IndexRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/cards': {
+      id: '/cards'
+      path: '/cards'
+      fullPath: '/cards'
+      preLoaderRoute: typeof CardsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/deadlines': {
+      id: '/deadlines'
+      path: '/deadlines'
+      fullPath: '/deadlines'
+      preLoaderRoute: typeof DeadlinesRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/events': {
+      id: '/events'
+      path: '/events'
+      fullPath: '/events'
+      preLoaderRoute: typeof EventsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/other': {
+      id: '/other'
+      path: '/other'
+      fullPath: '/other'
+      preLoaderRoute: typeof OtherRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/solo': {
+      id: '/solo'
+      path: '/solo'
+      fullPath: '/solo'
+      preLoaderRoute: typeof SoloRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/store': {
+      id: '/store'
+      path: '/store'
+      fullPath: '/store'
+      preLoaderRoute: typeof StoreRouteImport
+      parentRoute: typeof rootRouteImport
+    }
   }
 }
 
 const rootRouteChildren: RootRouteChildren = {
   IndexRoute: IndexRoute,
+  CardsRoute: CardsRoute,
+  DeadlinesRoute: DeadlinesRoute,
+  EventsRoute: EventsRoute,
+  OtherRoute: OtherRoute,
+  SoloRoute: SoloRoute,
+  StoreRoute: StoreRoute,
 }
 export const routeTree = rootRouteImport
   ._addFileChildren(rootRouteChildren)

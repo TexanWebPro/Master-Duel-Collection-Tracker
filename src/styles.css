@@ -1,27 +1,142 @@
+@import url("https://fonts.googleapis.com");
+@import url("https://fonts.gstatic.com");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@500;600&family=Space+Grotesk:wght@500;600;700&display=swap");
 @import 'tailwindcss';
+@import 'tw-animate-css';
 
-@theme {
-  --color-paper: #f7f9f8;
-  --color-rail: #e6ebe9;
-  --color-line: #cfd8d5;
-  --color-ink: #1b2a2e;
-  --color-muted: #667a7f;
-  --color-accent: #1d6b66;
-  --color-accent-soft: #d3e6e3;
-  --color-danger: #a23b3b;
-  --font-prose: 'Iowan Old Style', 'Palatino Linotype', Palatino, Georgia, serif;
+/*
+  Tactical Cyberpunk Arena - shadcn/ui tokens.
+  Dark only by design: pure black canvas, neon green accents, glass panels.
+*/
+:root {
+  color-scheme: dark;
+
+  /* shadcn semantic tokens */
+  --background: #000000;
+  --foreground: #f4fbf3;
+  --card: rgba(0, 47, 6, 0.2);
+  --card-foreground: #f4fbf3;
+  --popover: rgba(0, 20, 3, 0.96);
+  --popover-foreground: #f4fbf3;
+  --primary: #1fea00; /* electric green: focus, primary actions, live */
+  --primary-foreground: #000000;
+  --secondary: #27a102; /* kinetic green: secondary strokes, hover, active pills */
+  --secondary-foreground: #f4fbf3;
+  --muted: rgba(0, 47, 6, 0.4);
+  --muted-foreground: #8fa88c; /* tactical sage */
+  --accent: rgba(39, 161, 2, 0.15);
+  --accent-foreground: #f4fbf3;
+  --destructive: #ff6b5e;
+  --border: rgba(28, 96, 0, 0.5);
+  --input: #1c6000;
+  --ring: #1fea00;
+
+  /* extra tokens from the style guide */
+  --tactical: #1c6000; /* deep olive: structure, inactive tracks */
+  --faint: #40553e; /* disabled / tertiary text */
+  --track: #001703; /* progress track */
+  --well: rgba(0, 20, 3, 0.6); /* input well */
+  --hud: rgba(0, 20, 3, 0.94); /* modal / drawer surface */
+  --panel-hover: rgba(0, 47, 6, 0.5);
+  --alert: #ff8a80;
+  --alert-strong: #ff6b5e;
+  --warn: #ffb36b;
+  --caution: #ffe07a;
+  --error-text: #ffb4ab;
 }
 
-html, body { height: 100%; }
-body {
-  margin: 0;
-  background: var(--color-paper);
-  color: var(--color-ink);
-  font-family: system-ui, -apple-system, 'Segoe UI', sans-serif;
-  -webkit-font-smoothing: antialiased;
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --color-tactical: var(--tactical);
+  --color-faint: var(--faint);
+  --color-track: var(--track);
+  --color-well: var(--well);
+  --color-hud: var(--hud);
+  --color-panel-hover: var(--panel-hover);
+  --color-alert: var(--alert);
+  --color-alert-strong: var(--alert-strong);
+  --color-warn: var(--warn);
+  --color-caution: var(--caution);
+  --color-error-text: var(--error-text);
+
+  --font-sans: 'Inter', ui-sans-serif, system-ui, sans-serif;
+  --font-display: 'Space Grotesk', ui-sans-serif, system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, monospace;
+
+  /* Shape scale (style guide: 4px controls, 8px modules, 12px tags) */
+  --radius-xs: 2px;
+  --radius-sm: 3px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+  --radius-xl: 12px;
+
+  /* Phosphor glows instead of drop shadows */
+  --shadow-glow-sm: 0 0 6px rgba(31, 234, 0, 0.7);
+  --shadow-glow: 0 0 12px rgba(31, 234, 0, 0.45);
+  --shadow-glow-lg: 0 0 20px rgba(31, 234, 0, 0.6);
+  --shadow-panel: 0 0 16px -4px rgba(31, 234, 0, 0.15);
+  --shadow-hud: 0 0 32px -4px rgba(31, 234, 0, 0.25), inset 0 1px 0 rgba(31, 234, 0, 0.4);
+  --shadow-inuse: 0 0 14px rgba(31, 234, 0, 0.6);
+
+  --animate-blip: blip 1.6s ease-in-out infinite;
+  @keyframes blip {
+    0%, 100% { opacity: 1; }
+    50% { opacity: 0.35; }
+  }
 }
 
-:focus-visible {
-  outline: 2px solid var(--color-accent);
-  outline-offset: 2px;
+/* Monospace telemetry labels (label-md / label-sm in the style guide) */
+@utility label-md {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+}
+@utility label-sm {
+  font-family: var(--font-mono);
+  font-size: 10px;
+  line-height: 14px;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--muted-foreground);
+}
+@utility bg-hud-grid {
+  background-image:
+    linear-gradient(rgba(28, 96, 0, 0.07) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(28, 96, 0, 0.07) 1px, transparent 1px);
+  background-size: 48px 48px;
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background font-sans text-[15px] leading-6 text-foreground antialiased;
+  }
+  h1, h2, h3 {
+    @apply font-display;
+  }
 }

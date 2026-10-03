@@ -1,0 +1,1610 @@
+{
+  "schema_version": 1,
+  "table": "events",
+  "generated_at": "2026-09-30T16:44:00-05:00",
+  "rows": [
+    {
+      "id": "ev-100-million-downloads-login-campaign",
+      "name": "100 Million Downloads Login Campaign",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Login campaign · Log in 10 days; also gives Gems and Raffle Tickets"
+    },
+    {
+      "id": "ev-100-million-downloads-celebration-bundle",
+      "name": "100 Million Downloads Celebration Bundle",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop bundle, 3,000 Gems · 20 The First Heroes packs, 2 UR guaranteed"
+    },
+    {
+      "id": "ev-wcs-2026-celebratory-bundle",
+      "name": "WCS 2026 Celebratory Bundle",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop bundle, 3,000 Gems · Also 2 UR alt-art cards and an Alt Art Exchange Ticket"
+    },
+    {
+      "id": "ev-cyber-dragon-collection-bundle",
+      "name": "\"Cyber Dragon\" Collection Bundle",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop bundle, 2,500 Gems · 20 Pearlescent Cyber Dragons packs, 2 UR guaranteed"
+    },
+    {
+      "id": "ev-clown-crew-collection-bundle",
+      "name": "\"Clown Crew\" Collection Bundle",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop bundle, 1,600 Gems · 10 Kaiser on the Stage packs"
+    },
+    {
+      "id": "ev-yummy-collection-bundle-rerun",
+      "name": "Yummy Collection Bundle (rerun)",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop bundle, 2,400 Gems · 10 Tasty Treat Team packs, 1 UR guaranteed"
+    },
+    {
+      "id": "ev-limited-time-shop-accessories-sep-3-set",
+      "name": "Limited-time shop accessories (Sep 3 set)",
+      "starts_at": null,
+      "ends_at": "2026-10-05T22:59:00-05:00",
+      "note": "Shop items · Sold one by one"
+    },
+    {
+      "id": "ev-duel-pass-aug-11-season",
+      "name": "Duel Pass (Aug 11 season)",
+      "starts_at": null,
+      "ends_at": "2026-10-31T23:59:00-05:00",
+      "note": "Duel Pass · Gold Pass rewards need the paid pass · End time not confirmed"
+    },
+    {
+      "id": "ev-2027-season-commencement-commemoration-campaign",
+      "name": "2027 Season Commencement Commemoration Campaign",
+      "starts_at": null,
+      "ends_at": "2026-10-28T22:59:00-05:00",
+      "note": "Login campaign · Day 3 of a 7-day login track"
+    },
+    {
+      "id": "ev-duel-pass-01",
+      "name": "Duel Pass #01",
+      "starts_at": "2022-01-19T00:00:00-06:00",
+      "ends_at": "2022-04-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-02",
+      "name": "Duel Pass #02",
+      "starts_at": "2022-04-04T00:00:00-05:00",
+      "ends_at": "2022-06-16T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-synchro-festival-2022",
+      "name": "Synchro Festival 2022",
+      "starts_at": "2022-04-12T00:00:00-05:00",
+      "ends_at": "2022-04-22T23:59:00-05:00",
+      "note": "Ended · Also listed as Synchro Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-festival-2022",
+      "name": "Fusion Festival 2022",
+      "starts_at": "2022-05-12T00:00:00-05:00",
+      "ends_at": "2022-05-23T23:59:00-05:00",
+      "note": "Ended · Also listed as Fusion Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-03",
+      "name": "Duel Pass #03",
+      "starts_at": "2022-06-16T00:00:00-05:00",
+      "ends_at": "2022-08-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limit-one-festival-2022",
+      "name": "Limit One Festival 2022",
+      "starts_at": "2022-06-16T00:00:00-05:00",
+      "ends_at": "2022-06-27T23:59:00-05:00",
+      "note": "Ended · Also listed as Limit One Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-ex-zero-festival-2022",
+      "name": "EX-Zero Festival 2022",
+      "starts_at": "2022-07-19T00:00:00-05:00",
+      "ends_at": "2022-07-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-event-jul-19-28-2022",
+      "name": "Event (Jul 19 – 28, 2022)",
+      "starts_at": "2022-07-19T00:00:00-05:00",
+      "ends_at": "2022-07-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-aug-2022",
+      "name": "Duelist Cup Aug 2022",
+      "starts_at": "2022-08-08T00:00:00-05:00",
+      "ends_at": "2022-08-21T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-04",
+      "name": "Duel Pass #04",
+      "starts_at": "2022-08-30T00:00:00-05:00",
+      "ends_at": "2022-11-13T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-synchro-x-xyz-festival-2022",
+      "name": "Synchro x Xyz Festival 2022",
+      "starts_at": "2022-09-20T00:00:00-05:00",
+      "ends_at": "2022-09-30T23:59:00-05:00",
+      "note": "Ended · Also listed as Synchro x Xyz Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-special-duels-link-regulation",
+      "name": "Special Duels: Link Regulation",
+      "starts_at": "2022-10-13T00:00:00-05:00",
+      "ends_at": "2022-10-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-05",
+      "name": "Duel Pass #05",
+      "starts_at": "2022-11-13T00:00:00-06:00",
+      "ends_at": "2023-01-26T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-anti-spell-festival-2022",
+      "name": "Anti-Spell Festival 2022",
+      "starts_at": "2022-11-17T00:00:00-06:00",
+      "ends_at": "2022-11-29T23:59:00-06:00",
+      "note": "Ended · Also listed as Anti-Spell Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-50-million-downloads-campaign",
+      "name": "50 Million Downloads Campaign",
+      "starts_at": "2022-11-29T00:00:00-06:00",
+      "ends_at": "2022-12-26T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-dec-2022",
+      "name": "Duelist Cup Dec 2022",
+      "starts_at": "2022-12-08T00:00:00-06:00",
+      "ends_at": "2022-12-19T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-video-game-awards-2022-campaign",
+      "name": "Video Game Awards 2022 campaign",
+      "starts_at": "2022-12-26T00:00:00-06:00",
+      "ends_at": "2023-01-31T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-theme-chronicle-2023",
+      "name": "Theme Chronicle 2023",
+      "starts_at": "2023-01-17T00:00:00-06:00",
+      "ends_at": "2023-01-31T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-06",
+      "name": "Duel Pass #06",
+      "starts_at": "2023-01-26T00:00:00-06:00",
+      "ends_at": "2023-04-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-legend-anthology-2023",
+      "name": "Legend Anthology 2023",
+      "starts_at": "2023-02-17T00:00:00-06:00",
+      "ends_at": "2023-02-26T23:59:00-06:00",
+      "note": "Ended · Also listed as Legend Anthology · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-xyz-festival-2023",
+      "name": "Xyz Festival 2023",
+      "starts_at": "2023-02-20T00:00:00-06:00",
+      "ends_at": "2023-02-27T23:59:00-06:00",
+      "note": "Ended · Also listed as Xyz Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-power-pros-collaboration",
+      "name": "Power Pros collaboration",
+      "starts_at": "2023-02-23T00:00:00-06:00",
+      "ends_at": "2023-04-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-mar-2023",
+      "name": "Duelist Cup Mar 2023",
+      "starts_at": "2023-03-15T00:00:00-05:00",
+      "ends_at": "2023-03-26T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-15-apr-9-2023",
+      "name": "Limited-time shop (Mar 15 – Apr 9, 2023)",
+      "starts_at": "2023-03-15T00:00:00-05:00",
+      "ends_at": "2023-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-april-fools-event-mar-2023",
+      "name": "April Fools' event (Mar 2023)",
+      "starts_at": "2023-03-31T00:00:00-05:00",
+      "ends_at": "2023-04-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-april-fools-shop",
+      "name": "April Fools' shop",
+      "starts_at": "2023-03-31T00:00:00-05:00",
+      "ends_at": "2023-04-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-cross-duel-appreciation-campaign",
+      "name": "Cross Duel Appreciation Campaign",
+      "starts_at": "2023-04-04T00:00:00-05:00",
+      "ends_at": "2023-09-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-07",
+      "name": "Duel Pass #07",
+      "starts_at": "2023-04-11T00:00:00-05:00",
+      "ends_at": "2023-06-25T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-attribute-4-event",
+      "name": "Attribute 4 event",
+      "starts_at": "2023-04-19T00:00:00-05:00",
+      "ends_at": "2023-05-01T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-campaign-2023",
+      "name": "Road to Worlds Campaign 2023",
+      "starts_at": "2023-05-10T00:00:00-05:00",
+      "ends_at": "2023-06-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2023-qualifiers",
+      "name": "WCS 2023 Qualifiers",
+      "starts_at": "2023-05-16T00:00:00-05:00",
+      "ends_at": "2023-05-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-global-milestone-campaign",
+      "name": "Global milestone campaign",
+      "starts_at": "2023-06-08T00:00:00-05:00",
+      "ends_at": null,
+      "note": "Ended · When: From Jun 8, 2023 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-legend-anthology-academy",
+      "name": "Legend Anthology: Academy",
+      "starts_at": "2023-06-13T00:00:00-05:00",
+      "ends_at": "2023-06-26T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-synchro-festival-2023",
+      "name": "Synchro Festival 2023",
+      "starts_at": "2023-06-19T00:00:00-05:00",
+      "ends_at": "2023-06-28T23:59:00-05:00",
+      "note": "Ended · Also listed as Synchro Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-08",
+      "name": "Duel Pass #08",
+      "starts_at": "2023-06-25T00:00:00-05:00",
+      "ends_at": "2023-09-12T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-monster-type-festival-2023",
+      "name": "Monster Type Festival 2023",
+      "starts_at": "2023-07-19T00:00:00-05:00",
+      "ends_at": "2023-07-31T23:59:00-05:00",
+      "note": "Ended · Also listed as Monster Type Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs2023-commemorative-bundle",
+      "name": "WCS2023 Commemorative Bundle",
+      "starts_at": "2023-07-28T00:00:00-05:00",
+      "ends_at": "2023-08-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2023",
+      "name": "WCS 2023",
+      "starts_at": "2023-08-05T00:00:00-05:00",
+      "ends_at": "2023-08-06T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2023-participants",
+      "name": "WCS 2023 participants",
+      "starts_at": "2023-08-05T00:00:00-05:00",
+      "ends_at": "2023-08-06T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-57-3m-downloads-campaign",
+      "name": "57.3M Downloads Campaign",
+      "starts_at": "2023-08-10T00:00:00-05:00",
+      "ends_at": "2023-10-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-versus-event-dark-vs-light",
+      "name": "Versus Event: DARK vs LIGHT",
+      "starts_at": "2023-08-17T00:00:00-05:00",
+      "ends_at": "2023-08-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-09",
+      "name": "Duel Pass #09",
+      "starts_at": "2023-09-12T00:00:00-05:00",
+      "ends_at": "2023-11-27T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-monster-type-festival-king-of-the-island",
+      "name": "Monster Type Festival: King of the Island",
+      "starts_at": "2023-09-13T00:00:00-05:00",
+      "ends_at": "2023-09-25T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-x-xyz-festival-2023",
+      "name": "Fusion x Xyz Festival 2023",
+      "starts_at": "2023-09-19T00:00:00-05:00",
+      "ends_at": "2023-09-29T23:59:00-05:00",
+      "note": "Ended · Also listed as Fusion x Xyz Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-oct-2023",
+      "name": "Duelist Cup Oct 2023",
+      "starts_at": "2023-10-17T00:00:00-05:00",
+      "ends_at": "2023-10-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-ritual-festival-2023",
+      "name": "Ritual Festival 2023",
+      "starts_at": "2023-11-13T00:00:00-06:00",
+      "ends_at": "2023-11-24T23:59:00-06:00",
+      "note": "Ended · Also listed as Ritual Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-25th-anniversary-bundle-nov-2023",
+      "name": "25th Anniversary Bundle (Nov 2023)",
+      "starts_at": "2023-11-27T00:00:00-06:00",
+      "ends_at": "2024-01-10T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-25th-anniversary-limited-offer",
+      "name": "25th Anniversary limited offer",
+      "starts_at": "2023-11-27T00:00:00-06:00",
+      "ends_at": "2024-01-10T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-25th-anniversary-login-bonus",
+      "name": "25th Anniversary login bonus",
+      "starts_at": "2023-11-27T00:00:00-06:00",
+      "ends_at": "2024-01-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-10",
+      "name": "Duel Pass #10",
+      "starts_at": "2023-11-27T00:00:00-06:00",
+      "ends_at": "2024-02-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-winter-shop",
+      "name": "Winter shop",
+      "starts_at": "2023-12-05T00:00:00-06:00",
+      "ends_at": "2023-12-27T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-dec-2023",
+      "name": "Duelist Cup Dec 2023",
+      "starts_at": "2023-12-07T00:00:00-06:00",
+      "ends_at": "2023-12-18T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-new-year-bundle-jan-2024",
+      "name": "New Year Bundle (Jan 2024)",
+      "starts_at": "2024-01-01T00:00:00-06:00",
+      "ends_at": "2024-01-10T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-theme-chronicle-2024",
+      "name": "Theme Chronicle 2024",
+      "starts_at": "2024-01-17T00:00:00-06:00",
+      "ends_at": "2024-01-29T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-the-legend-of-duelist-login-bonus",
+      "name": "\"The Legend of Duelist\" login bonus",
+      "starts_at": "2024-02-03T00:00:00-06:00",
+      "ends_at": "2024-03-31T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-event-feb-3-7-2024",
+      "name": "Event (Feb 3 – 7, 2024)",
+      "starts_at": "2024-02-03T00:00:00-06:00",
+      "ends_at": "2024-02-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-the-bond-of-duelists",
+      "name": "The Bond of Duelists",
+      "starts_at": "2024-02-03T00:00:00-06:00",
+      "ends_at": "2024-02-19T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-the-bond-of-duelists-event",
+      "name": "The Bond of Duelists event",
+      "starts_at": "2024-02-03T00:00:00-06:00",
+      "ends_at": "2024-02-19T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-1st-anniversary-bundle",
+      "name": "1st Anniversary Bundle",
+      "starts_at": "2024-02-07T00:00:00-06:00",
+      "ends_at": "2024-04-11T23:59:00-05:00",
+      "note": "Ended · Ran: Feb 14 – Apr 10, 2023; Feb 7 – Apr 11, 2024 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-2nd-anniversary-bundle",
+      "name": "2nd Anniversary Bundle",
+      "starts_at": "2024-02-07T00:00:00-06:00",
+      "ends_at": "2024-04-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-11",
+      "name": "Duel Pass #11",
+      "starts_at": "2024-02-07T00:00:00-06:00",
+      "ends_at": "2024-04-22T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-legend-anthology-acceleration",
+      "name": "Legend Anthology: Acceleration",
+      "starts_at": "2024-02-13T00:00:00-06:00",
+      "ends_at": "2024-02-28T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-synchro-x-link-festival-2024",
+      "name": "Synchro x Link Festival 2024",
+      "starts_at": "2024-02-13T00:00:00-06:00",
+      "ends_at": "2024-02-28T23:59:00-06:00",
+      "note": "Ended · Also listed as Synchro x Link Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-25th-anniversary-video-code",
+      "name": "25th Anniversary video code",
+      "starts_at": "2024-03-08T00:00:00-06:00",
+      "ends_at": "2024-04-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-25th-anniversary-bundle-mar-2024",
+      "name": "25th Anniversary Bundle (Mar 2024)",
+      "starts_at": "2024-03-29T00:00:00-05:00",
+      "ends_at": "2024-04-23T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-accessories-bundle-mar-2024",
+      "name": "Accessories Bundle (Mar 2024)",
+      "starts_at": "2024-03-29T00:00:00-05:00",
+      "ends_at": "2024-04-23T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-april-fools-event-apr-2024",
+      "name": "April Fools' event (Apr 2024)",
+      "starts_at": "2024-04-01T00:00:00-05:00",
+      "ends_at": "2024-04-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-triangle-fusion-synchro-xyz",
+      "name": "Duel Triangle Fusion/Synchro/Xyz",
+      "starts_at": "2024-04-18T00:00:00-05:00",
+      "ends_at": "2024-04-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-12",
+      "name": "Duel Pass #12",
+      "starts_at": "2024-04-22T00:00:00-05:00",
+      "ends_at": "2024-07-02T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-apr-24-may-9-2024",
+      "name": "Limited-time shop (Apr 24 – May 9, 2024)",
+      "starts_at": "2024-04-24T00:00:00-05:00",
+      "ends_at": "2024-05-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-spring-shop",
+      "name": "Spring shop",
+      "starts_at": "2024-04-24T00:00:00-05:00",
+      "ends_at": "2024-05-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limit-one-festival-2024",
+      "name": "Limit One Festival 2024",
+      "starts_at": "2024-05-13T00:00:00-05:00",
+      "ends_at": "2024-05-25T23:59:00-05:00",
+      "note": "Ended · Also listed as Limit One Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-x-link-festival-2024",
+      "name": "Fusion x Link Festival 2024",
+      "starts_at": "2024-05-19T00:00:00-05:00",
+      "ends_at": "2024-05-28T23:59:00-05:00",
+      "note": "Ended · Also listed as Fusion x Link Festival · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-accessories-bundle-jun-2024",
+      "name": "Accessories Bundle (Jun 2024)",
+      "starts_at": "2024-06-07T00:00:00-05:00",
+      "ends_at": "2024-07-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-campaign-2024",
+      "name": "Road to Worlds! Campaign 2024",
+      "starts_at": "2024-06-07T00:00:00-05:00",
+      "ends_at": "2024-07-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-13",
+      "name": "Duel Pass #13",
+      "starts_at": "2024-07-03T00:00:00-05:00",
+      "ends_at": "2024-09-15T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-4-11-2024",
+      "name": "Limited-time shop (Jul 4 – 11, 2024)",
+      "starts_at": "2024-07-04T00:00:00-05:00",
+      "ends_at": "2024-07-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-xyz-cup",
+      "name": "Xyz Cup",
+      "starts_at": "2024-07-17T00:00:00-05:00",
+      "ends_at": "2024-07-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-event-jul-31-aug-8-2024",
+      "name": "Event (Jul 31 – Aug 8, 2024)",
+      "starts_at": "2024-07-31T00:00:00-05:00",
+      "ends_at": "2024-08-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-31-aug-8-2024",
+      "name": "Limited-time shop (Jul 31 – Aug 8, 2024)",
+      "starts_at": "2024-07-31T00:00:00-05:00",
+      "ends_at": "2024-08-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-water-and-wind-event",
+      "name": "WATER & WIND event",
+      "starts_at": "2024-08-14T00:00:00-05:00",
+      "ends_at": "2024-08-26T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-commemorative-bundle",
+      "name": "WCS Commemorative Bundle",
+      "starts_at": "2024-08-27T00:00:00-05:00",
+      "ends_at": "2024-09-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2024-participants",
+      "name": "WCS 2024 participants",
+      "starts_at": "2024-09-07T00:00:00-05:00",
+      "ends_at": "2024-09-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-14",
+      "name": "Duel Pass #14",
+      "starts_at": "2024-09-16T00:00:00-05:00",
+      "ends_at": "2024-11-23T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-triangle-fusion-synchro-link",
+      "name": "Duel Triangle Fusion/Synchro/Link",
+      "starts_at": "2024-10-16T00:00:00-05:00",
+      "ends_at": "2024-10-27T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-oct-16-28-2024",
+      "name": "Limited-time shop (Oct 16 – 28, 2024)",
+      "starts_at": "2024-10-16T00:00:00-05:00",
+      "ends_at": "2024-10-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-hallo-and-ween-accessory-bundle",
+      "name": "Hallo & Ween Accessory Bundle",
+      "starts_at": "2024-10-28T00:00:00-05:00",
+      "ends_at": "2024-11-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-halloween-shop",
+      "name": "Halloween shop",
+      "starts_at": "2024-10-28T00:00:00-05:00",
+      "ends_at": "2024-11-07T23:59:00-06:00",
+      "note": "Ended · Ran: Oct 28 – Nov 29, 2022; Oct 30 – Nov 27, 2023; Oct 28 – Nov 7, 2024 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-evil-twin-accessory-bundle",
+      "name": "Evil★Twin Accessory Bundle",
+      "starts_at": "2024-11-07T00:00:00-06:00",
+      "ends_at": "2025-01-09T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-login-bonus-day-6-nov-2024",
+      "name": "Login bonus (day 6) (Nov 2024)",
+      "starts_at": "2024-11-07T00:00:00-06:00",
+      "ends_at": "2024-12-23T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-xyz-x-link-festival",
+      "name": "Xyz x Link Festival",
+      "starts_at": "2024-11-13T00:00:00-06:00",
+      "ends_at": "2024-11-22T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-extra-zero-festival",
+      "name": "Extra Zero Festival",
+      "starts_at": "2024-11-17T00:00:00-06:00",
+      "ends_at": "2024-11-27T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-15",
+      "name": "Duel Pass #15",
+      "starts_at": "2024-11-25T00:00:00-06:00",
+      "ends_at": "2025-02-02T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-event-dec-26-2024-jan-28-2025",
+      "name": "Event (Dec 26, 2024 – Jan 28, 2025)",
+      "starts_at": "2024-12-26T00:00:00-06:00",
+      "ends_at": "2025-01-28T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-new-year-bundle-dec-2024",
+      "name": "New Year Bundle (Dec 2024)",
+      "starts_at": "2024-12-31T00:00:00-06:00",
+      "ends_at": "2025-01-09T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-16",
+      "name": "Duel Pass #16",
+      "starts_at": "2025-02-02T00:00:00-06:00",
+      "ends_at": "2025-04-22T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-3rd-anniversary-bundle",
+      "name": "3rd Anniversary Bundle",
+      "starts_at": "2025-02-06T00:00:00-06:00",
+      "ends_at": "2025-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-feb-6-apr-10-2025",
+      "name": "Limited-time shop (Feb 6 – Apr 10, 2025)",
+      "starts_at": "2025-02-06T00:00:00-06:00",
+      "ends_at": "2025-04-10T23:59:00-05:00",
+      "note": "Ended · Ran: Apr 24 – May 9, 2024; Feb 6 – Apr 9, 2025; Feb 6 – Apr 10, 2025 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-legend-anthology",
+      "name": "Legend Anthology",
+      "starts_at": "2025-02-10T00:00:00-06:00",
+      "ends_at": "2025-02-23T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-x-synchro-festival",
+      "name": "Fusion x Synchro Festival",
+      "starts_at": "2025-02-16T00:00:00-06:00",
+      "ends_at": "2025-02-26T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-1-10-2025",
+      "name": "Limited-time shop (Mar 1 – 10, 2025)",
+      "starts_at": "2025-03-01T00:00:00-06:00",
+      "ends_at": "2025-03-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-apr-17-30-2025",
+      "name": "Limited-time shop (Apr 17 – 30, 2025)",
+      "starts_at": "2025-04-17T00:00:00-05:00",
+      "ends_at": "2025-04-30T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-17",
+      "name": "Duel Pass #17",
+      "starts_at": "2025-04-22T00:00:00-05:00",
+      "ends_at": "2025-07-07T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-code-campaign",
+      "name": "Code campaign",
+      "starts_at": "2025-04-23T00:00:00-05:00",
+      "ends_at": "2026-03-31T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-apr-23-jun-4-2025",
+      "name": "Limited-time shop (Apr 23 – Jun 4, 2025)",
+      "starts_at": "2025-04-23T00:00:00-05:00",
+      "ends_at": "2025-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-may-9-jun-4-2025",
+      "name": "Limited-time shop (May 9 – Jun 4, 2025)",
+      "starts_at": "2025-05-09T00:00:00-05:00",
+      "ends_at": "2025-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-2025-bundle",
+      "name": "Road to Worlds 2025 Bundle",
+      "starts_at": "2025-05-27T00:00:00-05:00",
+      "ends_at": "2025-07-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-campaign-2025",
+      "name": "Road to Worlds Campaign 2025",
+      "starts_at": "2025-05-27T00:00:00-05:00",
+      "ends_at": "2025-07-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2025-qualifiers",
+      "name": "WCS 2025 Qualifiers",
+      "starts_at": "2025-06-03T00:00:00-05:00",
+      "ends_at": "2025-06-15T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jun-4-jul-4-2025",
+      "name": "Limited-time shop (Jun 4 – Jul 4, 2025)",
+      "starts_at": "2025-06-04T00:00:00-05:00",
+      "ends_at": "2025-07-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2025-participants",
+      "name": "WCS 2025 participants",
+      "starts_at": "2025-06-04T00:00:00-05:00",
+      "ends_at": "2025-06-15T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-maliss-bundle",
+      "name": "Maliss Bundle",
+      "starts_at": "2025-07-04T00:00:00-05:00",
+      "ends_at": "2025-08-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-18",
+      "name": "Duel Pass #18",
+      "starts_at": "2025-07-07T00:00:00-05:00",
+      "ends_at": "2025-09-24T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-15-aug-6-2025",
+      "name": "Limited-time shop (Jul 15 – Aug 6, 2025)",
+      "starts_at": "2025-07-15T00:00:00-05:00",
+      "ends_at": "2025-08-06T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-25-sep-9-2025",
+      "name": "Limited-time shop (Jul 25 – Sep 9, 2025)",
+      "starts_at": "2025-07-25T00:00:00-05:00",
+      "ends_at": "2025-09-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-aug-4-sep-10-2025",
+      "name": "Limited-time shop (Aug 4 – Sep 10, 2025)",
+      "starts_at": "2025-08-04T00:00:00-05:00",
+      "ends_at": "2025-09-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-aug-8-sep-10-2025",
+      "name": "Limited-time shop (Aug 8 – Sep 10, 2025)",
+      "starts_at": "2025-08-08T00:00:00-05:00",
+      "ends_at": "2025-09-10T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-theme-chronicle-2025",
+      "name": "Theme Chronicle 2025",
+      "starts_at": "2025-08-18T00:00:00-05:00",
+      "ends_at": "2025-08-27T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2025-celebratory-bundle",
+      "name": "WCS 2025 Celebratory Bundle",
+      "starts_at": "2025-08-25T00:00:00-05:00",
+      "ends_at": "2025-10-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-mission-sep-2025",
+      "name": "Limited mission (Sep 2025)",
+      "starts_at": "2025-09-01T00:00:00-05:00",
+      "ends_at": "2025-09-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-accesscode-talker-accessory-bundle",
+      "name": "Accesscode Talker Accessory Bundle",
+      "starts_at": "2025-09-10T00:00:00-05:00",
+      "ends_at": "2025-10-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-aleister-the-invoker-mate-bundle",
+      "name": "Aleister the Invoker Mate Bundle",
+      "starts_at": "2025-09-10T00:00:00-05:00",
+      "ends_at": "2025-10-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-sep-10-oct-8-2025",
+      "name": "Limited-time shop (Sep 10 – Oct 8, 2025)",
+      "starts_at": "2025-09-10T00:00:00-05:00",
+      "ends_at": "2025-10-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-sep-2025",
+      "name": "Duelist Cup Sep 2025",
+      "starts_at": "2025-09-17T00:00:00-05:00",
+      "ends_at": "2025-09-29T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-19",
+      "name": "Duel Pass #19",
+      "starts_at": "2025-09-24T00:00:00-05:00",
+      "ends_at": "2025-12-14T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-football-stadium-bundle",
+      "name": "Football Stadium Bundle",
+      "starts_at": "2025-10-05T00:00:00-05:00",
+      "ends_at": "2025-11-06T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-efootball-collaboration",
+      "name": "eFootball collaboration",
+      "starts_at": "2025-10-06T00:00:00-05:00",
+      "ends_at": "2025-11-27T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-oct-8-nov-7-2025",
+      "name": "Limited-time shop (Oct 8 – Nov 7, 2025)",
+      "starts_at": "2025-10-08T00:00:00-05:00",
+      "ends_at": "2025-11-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-orcust-collection-bundle",
+      "name": "Orcust Collection Bundle",
+      "starts_at": "2025-10-08T00:00:00-05:00",
+      "ends_at": "2025-11-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-oct-24-dec-5-2025",
+      "name": "Limited-time shop (Oct 24 – Dec 5, 2025)",
+      "starts_at": "2025-10-24T00:00:00-05:00",
+      "ends_at": "2025-12-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dragonmaid-collection-bundle",
+      "name": "Dragonmaid Collection Bundle",
+      "starts_at": "2025-10-28T00:00:00-05:00",
+      "ends_at": "2025-12-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-oct-28-nov-7-2025",
+      "name": "Limited-time shop (Oct 28 – Nov 7, 2025)",
+      "starts_at": "2025-10-28T00:00:00-05:00",
+      "ends_at": "2025-11-07T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-oct-28-nov-25-2025",
+      "name": "Limited-time shop (Oct 28 – Nov 25, 2025)",
+      "starts_at": "2025-10-28T00:00:00-05:00",
+      "ends_at": "2025-11-25T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-mission-nov-2025",
+      "name": "Limited mission (Nov 2025)",
+      "starts_at": "2025-11-01T00:00:00-05:00",
+      "ends_at": "2025-11-04T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-nov-7-dec-5-2025",
+      "name": "Limited-time shop (Nov 7 – Dec 5, 2025)",
+      "starts_at": "2025-11-07T00:00:00-06:00",
+      "ends_at": "2025-12-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-sky-striker-ace-collection-bundle",
+      "name": "Sky Striker Ace Collection Bundle",
+      "starts_at": "2025-11-07T00:00:00-06:00",
+      "ends_at": "2025-12-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-nov-13-dec-5-2025",
+      "name": "Limited-time shop (Nov 13 – Dec 5, 2025)",
+      "starts_at": "2025-11-13T00:00:00-06:00",
+      "ends_at": "2025-12-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-diabellstar-bundle",
+      "name": "Diabellstar Bundle",
+      "starts_at": "2025-11-25T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-eldlich-bundle",
+      "name": "Eldlich Bundle",
+      "starts_at": "2025-11-25T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-labrynth-accessory-bundle",
+      "name": "Labrynth Accessory Bundle",
+      "starts_at": "2025-11-25T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-labrynth-collection-bundle",
+      "name": "Labrynth Collection Bundle",
+      "starts_at": "2025-11-25T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-japan-high-school-campaign-login",
+      "name": "Japan High School Campaign login",
+      "starts_at": "2025-12-05T00:00:00-06:00",
+      "ends_at": "2025-12-22T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-dec-5-2025-jan-8-2026",
+      "name": "Limited-time shop (Dec 5, 2025 – Jan 8, 2026)",
+      "starts_at": "2025-12-05T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-dec-2025",
+      "name": "Duelist Cup Dec 2025",
+      "starts_at": "2025-12-09T00:00:00-06:00",
+      "ends_at": "2025-12-22T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-dec-9-2025-jan-8-2026",
+      "name": "Limited-time shop (Dec 9, 2025 – Jan 8, 2026)",
+      "starts_at": "2025-12-09T00:00:00-06:00",
+      "ends_at": "2026-01-08T23:59:00-06:00",
+      "note": "Ended · Ran: Dec 11 – 28, 2024; Dec 9, 2025 – Jan 8, 2026 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-20",
+      "name": "Duel Pass #20",
+      "starts_at": "2025-12-15T00:00:00-06:00",
+      "ends_at": "2026-03-04T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-mikanko-omikuji-bundle",
+      "name": "\"Mikanko\" Omikuji Bundle",
+      "starts_at": "2025-12-31T00:00:00-06:00",
+      "ends_at": "2026-02-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-dec-31-2025-feb-5-2026",
+      "name": "Limited-time shop (Dec 31, 2025 – Feb 5, 2026)",
+      "starts_at": "2025-12-31T00:00:00-06:00",
+      "ends_at": "2026-02-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jan-8-feb-5-2026",
+      "name": "Limited-time shop (Jan 8 – Feb 5, 2026)",
+      "starts_at": "2026-01-08T00:00:00-06:00",
+      "ends_at": "2026-02-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-event-jan-13-23-2026",
+      "name": "Event (Jan 13 – 23, 2026)",
+      "starts_at": "2026-01-13T00:00:00-06:00",
+      "ends_at": "2026-01-23T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jan-13-feb-5-2026",
+      "name": "Limited-time shop (Jan 13 – Feb 5, 2026)",
+      "starts_at": "2026-01-13T00:00:00-06:00",
+      "ends_at": "2026-02-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-x-synchro-festival-2",
+      "name": "Fusion x Synchro Festival+",
+      "starts_at": "2026-01-19T00:00:00-06:00",
+      "ends_at": "2026-01-27T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-4th-anniversary-celebration-bundle",
+      "name": "4th Anniversary Celebration Bundle",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-4th-anniversary-k9-collection-bundle",
+      "name": "4th Anniversary K9 Collection Bundle",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-4th-anniversary-login-bonus",
+      "name": "4th Anniversary login bonus",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dark-magician-collection-bundle",
+      "name": "Dark Magician Collection Bundle",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-i-p-masquerena-bundle",
+      "name": "I:P Masquerena Bundle",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-s-p-little-knight-bundle",
+      "name": "S:P Little Knight Bundle",
+      "starts_at": "2026-02-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dice-rally-feb-2026",
+      "name": "Dice Rally (Feb 2026)",
+      "starts_at": "2026-02-12T00:00:00-06:00",
+      "ends_at": "2026-02-24T23:59:00-06:00",
+      "note": "Ended · Also listed as Dice Rally · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-feb-12-24-2026",
+      "name": "Limited-time shop (Feb 12 – 24, 2026)",
+      "starts_at": "2026-02-12T00:00:00-06:00",
+      "ends_at": "2026-02-24T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-feb-24-mar-5-2026",
+      "name": "Limited-time shop (Feb 24 – Mar 5, 2026)",
+      "starts_at": "2026-02-24T00:00:00-06:00",
+      "ends_at": "2026-03-05T23:59:00-06:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-21",
+      "name": "Duel Pass #21",
+      "starts_at": "2026-03-04T00:00:00-06:00",
+      "ends_at": "2026-05-21T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-radiant-typhoon-accessories-bundle",
+      "name": "\"Radiant Typhoon\" Accessories Bundle",
+      "starts_at": "2026-03-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-5-apr-9-2026",
+      "name": "Limited-time shop (Mar 5 – Apr 9, 2026)",
+      "starts_at": "2026-03-05T00:00:00-06:00",
+      "ends_at": "2026-04-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup-mar-2026",
+      "name": "Duelist Cup Mar 2026",
+      "starts_at": "2026-03-10T00:00:00-05:00",
+      "ends_at": "2026-03-22T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-10-apr-8-2026",
+      "name": "Limited-time shop (Mar 10 – Apr 8, 2026)",
+      "starts_at": "2026-03-10T00:00:00-05:00",
+      "ends_at": "2026-04-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-destiny-hero-collection-bundle",
+      "name": "Destiny HERO Collection Bundle",
+      "starts_at": "2026-03-26T00:00:00-05:00",
+      "ends_at": "2026-05-07T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-26-may-7-2026",
+      "name": "Limited-time shop (Mar 26 – May 7, 2026)",
+      "starts_at": "2026-03-26T00:00:00-05:00",
+      "ends_at": "2026-05-07T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-login-bonus-day-6-mar-2026",
+      "name": "Login bonus (day 6) (Mar 2026)",
+      "starts_at": "2026-03-26T00:00:00-05:00",
+      "ends_at": null,
+      "note": "Ended · When: Mar 26, 2026 campaign · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-mar-31-apr-8-2026",
+      "name": "Limited-time shop (Mar 31 – Apr 8, 2026)",
+      "starts_at": "2026-03-31T00:00:00-05:00",
+      "ends_at": "2026-04-08T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-kewl-tune-collection-bundle",
+      "name": "Kewl Tune Collection Bundle",
+      "starts_at": "2026-04-09T00:00:00-05:00",
+      "ends_at": "2026-05-07T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-apr-9-may-7-2026",
+      "name": "Limited-time shop (Apr 9 – May 7, 2026)",
+      "starts_at": "2026-04-09T00:00:00-05:00",
+      "ends_at": "2026-05-07T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-triangle-fusion-synchro-link-2026",
+      "name": "Duel Triangle Fusion/Synchro/Link (2026)",
+      "starts_at": "2026-04-16T00:00:00-05:00",
+      "ends_at": "2026-04-28T23:59:00-05:00",
+      "note": "Ended · Also listed as Duel Triangle Fusion/Synchro/Link · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-apr-24-jun-4-2026",
+      "name": "Limited-time shop (Apr 24 – Jun 4, 2026)",
+      "starts_at": "2026-04-24T00:00:00-05:00",
+      "ends_at": "2026-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-trial-5-card-vs-6-card-hand",
+      "name": "Duel Trial: 5-Card vs 6-Card Hand",
+      "starts_at": "2026-04-28T00:00:00-05:00",
+      "ends_at": "2026-05-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-missions-may-2026",
+      "name": "Duel Missions (May 2026)",
+      "starts_at": "2026-05-01T00:00:00-05:00",
+      "ends_at": "2026-05-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-elfnote-bundle",
+      "name": "\"Elfnote\" Bundle",
+      "starts_at": "2026-05-07T00:00:00-05:00",
+      "ends_at": "2026-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dragunity-collection-bundle",
+      "name": "Dragunity Collection Bundle",
+      "starts_at": "2026-05-07T00:00:00-05:00",
+      "ends_at": "2026-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-exosister-collection-bundle",
+      "name": "Exosister Collection Bundle",
+      "starts_at": "2026-05-07T00:00:00-05:00",
+      "ends_at": "2026-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dice-rally-may-2026",
+      "name": "Dice Rally (May 2026)",
+      "starts_at": "2026-05-14T00:00:00-05:00",
+      "ends_at": "2026-05-26T23:59:00-05:00",
+      "note": "Ended · Also listed as Dice Rally · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-may-14-jun-4-2026",
+      "name": "Limited-time shop (May 14 – Jun 4, 2026)",
+      "starts_at": "2026-05-14T00:00:00-05:00",
+      "ends_at": "2026-06-04T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-pass-22",
+      "name": "Duel Pass #22",
+      "starts_at": "2026-05-22T00:00:00-05:00",
+      "ends_at": "2026-08-11T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jun-4-jul-9-2026",
+      "name": "Limited-time shop (Jun 4 – Jul 9, 2026)",
+      "starts_at": "2026-06-04T00:00:00-05:00",
+      "ends_at": "2026-07-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-2026-login-campaign-day-7",
+      "name": "Road to Worlds 2026 login campaign (day 7)",
+      "starts_at": "2026-06-04T00:00:00-05:00",
+      "ends_at": "2026-08-19T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-2026-branded-bundle",
+      "name": "Road to Worlds! 2026 \"Branded\" Bundle",
+      "starts_at": "2026-06-04T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-2026-branded-collection-bundle",
+      "name": "Road to Worlds! 2026 \"Branded\" Collection Bundle",
+      "starts_at": "2026-06-04T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-2026-branded-deluxe-mate-bundle",
+      "name": "Road to Worlds! 2026 \"Branded\" Deluxe Mate Bundle",
+      "starts_at": "2026-06-04T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jun-10-jul-9-2026",
+      "name": "Limited-time shop (Jun 10 – Jul 9, 2026)",
+      "starts_at": "2026-06-10T00:00:00-05:00",
+      "ends_at": "2026-07-09T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-wcs-2026-qualifiers",
+      "name": "WCS 2026 Qualifiers",
+      "starts_at": "2026-06-10T00:00:00-05:00",
+      "ends_at": "2026-06-22T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jun-22-27-2026",
+      "name": "Limited-time shop (Jun 22 – 27, 2026)",
+      "starts_at": "2026-06-22T00:00:00-05:00",
+      "ends_at": "2026-06-27T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-missions-jul-2026",
+      "name": "Duel Missions (Jul 2026)",
+      "starts_at": "2026-07-04T00:00:00-05:00",
+      "ends_at": "2026-07-14T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-ryzeal-mate-bundle",
+      "name": "\"Ryzeal\" Mate Bundle",
+      "starts_at": "2026-07-09T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fairy-tail-collection-bundle",
+      "name": "Fairy Tail Collection Bundle",
+      "starts_at": "2026-07-09T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-9-aug-5-2026",
+      "name": "Limited-time shop (Jul 9 – Aug 5, 2026)",
+      "starts_at": "2026-07-09T00:00:00-05:00",
+      "ends_at": "2026-08-05T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-login-bonus",
+      "name": "Login bonus",
+      "starts_at": "2026-07-09T00:00:00-05:00",
+      "ends_at": "2026-07-31T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-x-xyz-festival",
+      "name": "Fusion x Xyz Festival+",
+      "starts_at": "2026-07-13T00:00:00-05:00",
+      "ends_at": "2026-07-22T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-theme-chronicle-2026",
+      "name": "Theme Chronicle 2026",
+      "starts_at": "2026-07-17T00:00:00-05:00",
+      "ends_at": "2026-07-27T23:59:00-05:00",
+      "note": "Ended · Also listed as Theme Chronicle · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fur-hire-mate-bundle",
+      "name": "Fur Hire Mate Bundle",
+      "starts_at": "2026-07-27T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-jul-27-sep-3-2026",
+      "name": "Limited-time shop (Jul 27 – Sep 3, 2026)",
+      "starts_at": "2026-07-27T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-darklord-collection-bundle",
+      "name": "\"Darklord\" Collection Bundle",
+      "starts_at": "2026-08-05T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-dracotail-accessory-bundle",
+      "name": "\"Dracotail\" Accessory Bundle",
+      "starts_at": "2026-08-05T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Ran: Dec 5, 2025 – Jan 8, 2026; Aug 5 – Sep 3, 2026 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-aug-5-sep-3-2026",
+      "name": "Limited-time shop (Aug 5 – Sep 3, 2026)",
+      "starts_at": "2026-08-05T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-shaddoll-collection-bundle",
+      "name": "Shaddoll Collection Bundle",
+      "starts_at": "2026-08-05T00:00:00-05:00",
+      "ends_at": "2026-09-03T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-cup",
+      "name": "Fusion Cup",
+      "starts_at": "2026-08-07T00:00:00-05:00",
+      "ends_at": "2026-08-17T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-time-shop-aug-7-17-2026",
+      "name": "Limited-time shop (Aug 7 – 17, 2026)",
+      "starts_at": "2026-08-07T00:00:00-05:00",
+      "ends_at": "2026-08-17T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-legend-anthology-2026",
+      "name": "Legend Anthology 2026",
+      "starts_at": "2026-08-17T00:00:00-05:00",
+      "ends_at": "2026-08-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-cheer-for-champion-campaign",
+      "name": "Cheer for Champion campaign",
+      "starts_at": "2026-08-18T00:00:00-05:00",
+      "ends_at": "2026-08-28T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-limited-mission-sep-2026",
+      "name": "Limited mission (Sep 2026)",
+      "starts_at": "2026-09-01T00:00:00-05:00",
+      "ends_at": "2026-09-13T23:59:00-05:00",
+      "note": "Ended · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-2025-season-login-campaign",
+      "name": "2025 Season login campaign",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2024 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-3rd-anniversary-campaign",
+      "name": "3rd Anniversary campaign",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: Feb 2025 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-80-million-downloads-campaign",
+      "name": "80 Million Downloads Campaign",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2024 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-triangle-dark-and-water-light-and-earth-fire-and-wind",
+      "name": "Duel Triangle DARK & WATER / LIGHT & EARTH / FIRE & WIND",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2025 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duel-triangle-fusion-xyz-link-2025",
+      "name": "Duel Triangle Fusion/Xyz/Link (2025)",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2025 · Also listed as Duel Triangle Fusion/Xyz/Link · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-duelist-cup",
+      "name": "Duelist Cup",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: Event · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-fusion-and-link-festival-2025",
+      "name": "Fusion & Link Festival 2025",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2025 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-road-to-worlds-campaign-2025-2",
+      "name": "Road to Worlds! Campaign 2025",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2025 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-rookie-and-returner-campaign-2025",
+      "name": "Rookie & Returner Campaign 2025",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: Campaign (may still be running) · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-rookie-and-returner-mutual-follower-campaign",
+      "name": "Rookie & Returner Mutual Follower Campaign",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: Campaign (may still be running) · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-structure-deck-giveaway-campaign",
+      "name": "Structure Deck Giveaway Campaign",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2026 · Times not recorded; dates are start of day and end of day, Central"
+    },
+    {
+      "id": "ev-under-5-festival",
+      "name": "Under 5 Festival",
+      "starts_at": null,
+      "ends_at": null,
+      "note": "Ended · When: 2025 · Times not recorded; dates are start of day and end of day, Central"
+    }
+  ]
+}
